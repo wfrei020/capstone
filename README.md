@@ -10,6 +10,6 @@ The source code uses
   parallel programming to communicate easier
   
   
-The c code is what was used as the firmware for the robotic arm witch communicated via usb transferring asci characters are commands.
+The c_src directory is the c code which was used as the firmware for the robotic arm witch communicated via usb transferring asci characters are commands.
   
 please note the other files are not important
